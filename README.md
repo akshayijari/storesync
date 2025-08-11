@@ -95,4 +95,4 @@ Set your Firebase config in `app.json` under `expo.extra` or directly in `fireba
 ---
 
 ## Author
-- [Your Name](https://github.com/akshayijari)
+- [Akshay Ijari](https://github.com/akshayijari)
