@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142740774982",
+    "project_id": "storesync-8c924",
+    "storage_bucket": "storesync-8c924.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142740774982:android:f4066393a6cd2cacf42a47",
+        "android_client_info": {
+          "package_name": "com.storesync.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf7U411mQZ5x0n4cFIgT--OzoFhy0if70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
